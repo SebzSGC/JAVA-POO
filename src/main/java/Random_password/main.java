@@ -1,6 +1,6 @@
 package Random_password;
 
-public class Sebz {
+public class main {
 
     public static void main(String[] args) {
         

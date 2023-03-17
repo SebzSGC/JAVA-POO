@@ -44,11 +44,11 @@ public class Password {
     }
 
     public String getClave() {
-        return "Su clave es: " + clave;
+        return clave;
     }
 
-    public String getLongitud() {
-        return "Su clave tiene " + longitud + " caracteres";
+    public int getLongitud() {
+        return longitud;
     }
 
 }
